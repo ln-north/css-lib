@@ -1,0 +1,12 @@
+:root {
+    --color-black: #000000;
+    --color-white: #FFFFFF;
+
+    --color-grayscale-base: #767676;
+    --color-grayscale-dark1: #393939;
+    --color-grayscale-dark2: #2B2B2B;
+    --color-grayscale-dark3: #1F1F1F;
+    --color-grayscale-light1: #CCCCCC;
+    --color-grayscale-light2: #E6E6E6;
+    --color-grayscale-light3: #F2F2F2;
+}
